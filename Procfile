@@ -1,1 +1,0 @@
-web:    java $JAVA_OPTS -jar target/dependency/JMusicBot-0.1.3.jar --port $PORT target/*.war
